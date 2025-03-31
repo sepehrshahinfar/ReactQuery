@@ -42,7 +42,7 @@ A complete event management application built to practice advanced **React Query
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/react-query-events.git
+   git clone https://github.com/sepehrshahinfar/ReactQuery.git
 2. Install dependencies
    npm install
 3. Start the development server
